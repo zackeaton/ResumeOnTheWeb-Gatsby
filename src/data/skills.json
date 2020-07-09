@@ -7,7 +7,7 @@
   {
     "icon": "../images/skills/angular.png",
     "name": "Frontend Javascript Frameworks",
-    "tech": "AngularJS/Angular 9/React/Vue.js/Svelte"
+    "tech": "React/Vue.js/Angular/Svelte"
   },
   {
     "icon": "../images/skills/nodejs.png",
@@ -15,19 +15,24 @@
     "tech": "Node.js/Express.js/Mongoose"
   },
   {
-    "icon": "../images/skills/flutter.png",
-    "name": "Cross Platform App Development",
-    "tech": "Dart/Flutter/Firebase"
-  },
-  {
-    "icon": "../images/skills/python.png",
-    "name": "Python Scripting",
-    "tech": "Python 3/BeautifulSoup/PyMongo"
-  },
-  {
     "icon": "../images/skills/database.png",
     "name": "Database Management System",
     "tech": "MySQL/Postgres/MongoDB"
+  },
+  {
+    "icon": "../images/skills/hubspot.png",
+    "name": "Customer Relationship Management",
+    "tech": "HubSpot/SalesForce/ZenDesk"
+  },
+  {
+    "icon": "../images/skills/shopify.png",
+    "name": "Ecommerce",
+    "tech": "Shopify/WooCommerce/WordPress"
+  },
+  {
+    "icon": "../images/skills/powerbi.png",
+    "name": "Analytics & Reporting",
+    "tech": "Power BI/Google Analytics/Excel"
   },
   {
     "icon": "../images/skills/android.png",
@@ -38,11 +43,6 @@
     "icon": "../images/skills/sketch.png",
     "name": "UI/UX Design",
     "tech": "Adobe XD/Figma/Sketch"
-  },
-  {
-    "icon": "../images/skills/tensorflow.png",
-    "name": "Machine Learning",
-    "tech": "Scikit-Learn/TensorFlow/Keras"
   },
   {
     "icon": "../images/skills/seo.png",
@@ -56,7 +56,7 @@
   },
   {
     "icon": "../images/skills/fcpx.png",
-    "name": "Photo & Video Post-Processing",
-    "tech": "Adobe After Effects/Final Cut Pro X"
+    "name": "Video Editing",
+    "tech": "Premiere Pro, iMovie, In-Shot"
   }
 ]
