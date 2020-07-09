@@ -11,38 +11,38 @@ const social = [
   {
     title: "Instagram",
     icon: FaInstagram,
-    link: "https://pillai.xyz/instagram",
+    link: "https://link.zackeaton.com/eatonstl",
     class: "bg-instagram",
   },
   {
     title: "LinkedIn",
     icon: FaLinkedinIn,
-    link: "https://pillai.xyz/linkedin",
+    link: "https://link.zackeaton.com/linkedin",
     class: "bg-linkedin",
-  },
-  {
-    title: "GitHub",
-    icon: FaGithubAlt,
-    link: "https://pillai.xyz/github",
-    class: "bg-github",
-  },
-  {
-    title: "DEV Community",
-    icon: FaDev,
-    link: "https://pillai.xyz/dev",
-    class: "bg-dev",
   },
   {
     title: "Facebook",
     icon: FaFacebookF,
-    link: "https://pillai.xyz/facebook",
+    link: "https://link.zackeaton.com/facebook",
     class: "bg-facebook",
   },
   {
     title: "Twitter",
     icon: FaTwitter,
-    link: "https://pillai.xyz/twitter",
+    link: "https://link.zackeaton.com/twitter",
     class: "bg-twitter",
+  },
+  {
+    title: "GitHub",
+    icon: FaGithubAlt,
+    link: "https://link.zackeaton.com/github",
+    class: "bg-github",
+  },
+  {
+    title: "DEV Community",
+    icon: FaDev,
+    link: "https://link.zackeaton.com/dev",
+    class: "bg-dev",
   },
 ];
 

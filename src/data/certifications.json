@@ -1,22 +1,22 @@
 [
   {
-    "title": "Applied CS with Android",
-    "subtitle": "Google"
+    "title": "Beginner Javascript",
+    "subtitle": "Wes Bos"
   },
   {
-    "title": "The Complete React Native and Redux Course",
+    "title": "Command Line Heros",
+    "subtitle": "Wes Bos"
+  },
+  {
+    "title": "Angular & NodeJS - The MEAN Stack Guide [2020 Edition]",
     "subtitle": "Udemy"
   },
   {
-    "title": "Data Science & Machine Learning using Python",
+    "title": "The Web Developer Bootcamp",
     "subtitle": "Udemy"
   },
   {
-    "title": "Dynamic Skills Integrated Program",
-    "subtitle": "DSI - Center for Innovation and Leadership"
-  },
-  {
-    "title": "Java - Level 1 & 2",
-    "subtitle": "Cambridge Certification Authority"
+    "title": "Java Programming Masterclass for Software Developers",
+    "subtitle": "Udemy"
   }
 ]

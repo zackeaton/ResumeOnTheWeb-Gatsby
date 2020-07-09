@@ -1,42 +1,34 @@
 [
   {
-    "icon": "../images/work/postman.png",
-    "title": "Postdot Technologies Pvt. Ltd.",
-    "subtitle": "Full Stack Developer",
-    "period": "Jun '20 - current",
-    "location": "Bengaluru, India",
-    "specialization": "React, Sails"
+    "icon": "../images/work/eyepromise.png",
+    "title": "EyePromise",
+    "subtitle": "Esports Product Manager",
+    "period": "May '19 - April '20",
+    "location": "Remote",
+    "specialization": "Angular, Node Python, Figma, Product Design"
   },
   {
-    "icon": "../images/work/dhiyo.png",
-    "title": "GoDhiyo Solutions Pvt. Ltd.",
-    "subtitle": "Full Stack Developer and Designer",
-    "period": "Jul '18 - Mar '20",
-    "location": "Bengaluru, India",
-    "specialization": "Angular, Node, Python, Figma, Product Design"
-  },
-  {
-    "icon": "../images/work/betsol.png",
-    "title": "Betsol Software (India) Pvt. Ltd.",
-    "subtitle": "Full Stack Developer Intern",
-    "period": "Jan '18 - Mar '18",
-    "location": "Bengaluru, India",
+    "icon": "../images/work/eyepromise.png",
+    "title": "EyePromise",
+    "subtitle": "Information Systems Intern",
+    "period": "Sept '18 - May '18",
+    "location": "Chesterfield, MO",
     "specialization": "Full Stack Javascript, AngularJS, Node, MongoDB"
   },
   {
-    "icon": "../images/work/grabhouse.png",
-    "title": "Grabhouse Pvt. Ltd.",
-    "subtitle": "Web Developer Intern",
-    "period": "Jan '16 - Feb '16",
-    "location": "Bengaluru, India",
-    "specialization": "Python Scripting, Yii Framework (PHP), WordPress"
+    "icon": "../images/work/eaton.png",
+    "title": "Eaton Properties",
+    "subtitle": "Real Estate Agent",
+    "period": "Aug '15 - May '19",
+    "location": "St. Louis, MO",
+    "specialization": "Property Management, Real Estate Sales"
   },
   {
-    "icon": "../images/work/cognitive-clouds.png",
-    "title": "Cognitive Clouds Pvt. Ltd.",
-    "subtitle": "Visual Designer Intern",
-    "period": "Jan '14 - Feb '14",
-    "location": "Bengaluru, India",
-    "specialization": "Adobe Photoshop CC, Adobe Illustrator CC"
+    "icon": "../images/work/zackeaton.png",
+    "title": "ZackEaton.com",
+    "subtitle": "Full-Stack Web Developer",
+    "period": "Aug '13 - Jun '18",
+    "location": "Remote",
+    "specialization": "Wordpress, GoDaddy, HTML & CSS"
   }
 ]

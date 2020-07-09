@@ -9,7 +9,7 @@ import { FaLink, IoIosDocument } from "../components/Icons";
 const Resume = () => {
   const data = useStaticQuery(graphql`
     {
-      file(relativePath: { eq: "resume/preview.png" }) {
+      file(relativePath: { eq: "resume/preview.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 600) {
             ...GatsbyImageSharpFluid_withWebp
@@ -26,7 +26,7 @@ const Resume = () => {
       <div className="grid grid-cols-1 gap-6 md:grid-cols-5 md:gap-8 items-center">
         <div className="col-span-1 md:col-span-2">
           <OutboundLink
-            href="https://pillai.xyz/resume-pdf"
+            href="https://link.zackeaton.com/resume-pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full h-64 md:h-48 lg:h-64 bg-black relative flex-center cursor-pointer rounded-lg shadow-lg"
@@ -51,7 +51,7 @@ const Resume = () => {
             icon={IoIosDocument}
             title="Download Resume"
             onClick={() =>
-              window.open("https://pillai.xyz/resume-pdf", "_blank")
+              window.open("https://link.zackeaton.com/resume-pdf", "_blank")
             }
           />
         </div>

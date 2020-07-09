@@ -6,16 +6,16 @@ require(`dotenv`).config({ path: `.env` });
 
 module.exports = {
   siteMetadata: {
-    title: `Amruth Pillai's Resume on the Web`,
+    title: `Zack Eaton's Resume on the Web`,
     description: `Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web!`,
-    author: `Amruth Pillai`,
-    siteUrl: `https://amruthpillai.com`,
+    author: `Zack Eaton`,
+    siteUrl: `https://zackeaton.dev`,
   },
   plugins: [
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://amruthpillai.com`,
+        siteUrl: `https://zackeaton.dev`,
       },
     },
     {
@@ -28,8 +28,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-robots-txt`,
       options: {
-        host: `https://amruthpillai.com`,
-        sitemap: `https://amruthpillai.com/sitemap.xml`,
+        host: `https://zackeaton.dev`,
+        sitemap: `https://zackeaton.dev/sitemap.xml`,
         policy: [{ userAgent: `*`, allow: `/` }],
       },
     },
@@ -38,7 +38,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Amruth Pillai's Resume on the Web`,
+        name: `Zack Eaton's Resume on the Web`,
         short_name: `Resume on the Web`,
         start_url: `/`,
         background_color: fullConfig.theme.colors.white,
@@ -75,7 +75,7 @@ module.exports = {
     {
       resolve: `gatsby-source-dev`,
       options: {
-        username: `amruthpillai`,
+        username: `zackeaton`,
       },
     },
     `gatsby-transformer-remark`,
@@ -97,7 +97,7 @@ module.exports = {
     {
       resolve: `gatsby-source-instagram`,
       options: {
-        username: `279179176`,
+        username: `4861797037`,
       },
     },
     {

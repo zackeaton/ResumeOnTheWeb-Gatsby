@@ -87,7 +87,7 @@ const Blog = () => {
         className="mt-12"
         icon={FaDev}
         title="Articles on DEV.to"
-        onClick={() => window.open("https://pillai.xyz/dev", "_blank")}
+        onClick={() => window.open("https://link.zackeaton.com/dev", "_blank")}
       />
     </section>
   );

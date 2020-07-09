@@ -72,7 +72,7 @@ const Photography = () => {
         className="mt-12"
         icon={FaInstagram}
         title="Photos on Instagram"
-        onClick={() => window.open("https://pillai.xyz/instagram", "_blank")}
+        onClick={() => window.open("https://link.zackeaton.com/eatonstl", "_blank")}
       />
     </section>
   );
