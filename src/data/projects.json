@@ -4,42 +4,35 @@
     "title": "Influencer Marketing in Esports",
     "description": "Influencer Marketing is a hot topic in 2020. But how can a brand know if influencer marketing is the right fit for them? EyePromise found the secret formula.",
     "tags": ["influencer", "marketing", "esports", "sales", "growth"],
-    "github": "https://zackeaton.com/portfolio-item/influencer-marketing-in-esports/"
+    "website": "https://zackeaton.com/portfolio-item/influencer-marketing-in-esports/"
   },
   {
     "image": "../images/projects/screenshield.png",
     "title": "EyePromise.gg",
     "description": "EyePromise.gg is a new iteration of the ScreenShield.gg beta project. The original project was done by ZackEaton.com and taken to EyePromise.",
     "tags": ["wordpress", "webdev", "php", "esports", "seo"],
-    "website": "https://screenshield.gg/",
-    "github": "https://zackeaton.com/portfolio-item/eyepromise-gg/"
+    "website": "https://zackeaton.com/portfolio-item/eyepromise-gg/"
   },
   {
     "image": "../images/projects/ovphoto.png",
     "title": "OV Photography",
     "description": "The client needed a custom web application to keep track of client information, photoshoot details, invoice statuses, as well as pre and post-event tasks.",
     "tags": ["photography", "invoice", "crm", "firebase", "vuejs"],
-    "website": "https://www.ovphotography.co/",
-    "github": "https://zackeaton.com/portfolio-item/ov-photography/"
+    "github": "https://github.com/zackeaton",
+    "website": "https://zackeaton.com/portfolio-item/ov-photography/"
   },
   {
     "image": "../images/projects/ep-build.png",
     "title": "Building A Brand For Esports On Social Media",
     "description": "With some small rebranding, EyePromise saw tremendous growth organically. Using affiliate marketing EyePromise quickly became a well-known brand in esports.",
-    "tags": [
-      "esports",
-      "eye health",
-      "social media",
-      "twitter",
-      "influencer marketing"
-    ],
-    "github": "https://zackeaton.com/portfolio-item/building-a-brand-for-esports-on-social-media/"
+    "tags": ["esports", "marketing", "social", "influencer"],
+    "website": "https://zackeaton.com/portfolio-item/building-a-brand-for-esports-on-social-media/"
   },
   {
     "image": "../images/projects/ep-nps.png",
     "title": "NPS Campaigns",
     "description": "Multiple NPS campaigns with surveys sent to customers. Data was fed between the client's website, the NPS application, and the client's CRM.",
     "tags": ["nps", "crm", "hubspot", "zapier", "retently"],
-    "github": "https://zackeaton.com/portfolio-item/eyepromise-nps-campaigns/"
+    "website": "https://zackeaton.com/portfolio-item/eyepromise-nps-campaigns/"
   }
 ]

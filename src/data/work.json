@@ -5,7 +5,7 @@
     "subtitle": "Esports Product Manager",
     "period": "May '19 - April '20",
     "location": "Remote",
-    "specialization": "Angular, Node Python, Figma, Product Design"
+    "specialization": "Wordpress, Social Media, Influencer Marketing, Content Creation"
   },
   {
     "icon": "../images/work/eyepromise.png",
@@ -13,7 +13,7 @@
     "subtitle": "Information Systems Intern",
     "period": "Sept '18 - May '18",
     "location": "Chesterfield, MO",
-    "specialization": "Full Stack Javascript, AngularJS, Node, MongoDB"
+    "specialization": "HubSpot, SalesForce, Excel, WebHooks"
   },
   {
     "icon": "../images/work/eaton.png",
@@ -30,5 +30,21 @@
     "period": "Aug '13 - Jun '18",
     "location": "Remote",
     "specialization": "Wordpress, GoDaddy, HTML & CSS"
+  },
+  {
+    "icon": "../images/work/strange.png",
+    "title": "Strange Donuts",
+    "subtitle": "Front of House",
+    "period": "July '15 - Sept '16",
+    "location": "St. Louis, MO",
+    "specialization": "Sales, Customer Service, Delivery"
+  },
+  {
+    "icon": "../images/work/sa3.png",
+    "title": "SA3 Studios",
+    "subtitle": "Digital Media Intern",
+    "period": "Dec '11 - Dec '15",
+    "location": "Lake St. Louis",
+    "specialization": "Photography, Videography, Inventory Management, Billing"
   }
 ]

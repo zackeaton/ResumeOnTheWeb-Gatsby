@@ -12,6 +12,12 @@
     "period": "2014 - 2016"
   },
   {
+    "icon": "../images/education/realtor.png",
+    "title": "Missouri Real Estate Commission",
+    "subtitle": "Missouri Real Estate License",
+    "period": "2014"
+  },
+  {
     "icon": "../images/education/fhn.png",
     "title": "Francis Howell North",
     "subtitle": "High School Diploma",
