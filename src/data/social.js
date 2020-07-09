@@ -1,6 +1,5 @@
 import {
   FaDev,
-  FaDribbble,
   FaFacebookF,
   FaGithubAlt,
   FaInstagram,
@@ -26,12 +25,6 @@ const social = [
     icon: FaGithubAlt,
     link: "https://pillai.xyz/github",
     class: "bg-github",
-  },
-  {
-    title: "Dribbble",
-    icon: FaDribbble,
-    link: "https://pillai.xyz/dribbble",
-    class: "bg-dribbble",
   },
   {
     title: "DEV Community",
