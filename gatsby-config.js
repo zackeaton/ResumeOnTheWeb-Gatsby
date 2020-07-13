@@ -2,7 +2,7 @@ const path = require(`path`);
 const resolveConfig = require(`tailwindcss/resolveConfig`);
 const tailwindConfig = require(`./tailwind.config.js`);
 const fullConfig = resolveConfig(tailwindConfig);
-require(`dotenv`).config({ path: `.env.${process.env.NODE_ENV}` });
+require(`dotenv`).config({ path: `.env.` });
 
 module.exports = {
   siteMetadata: {
