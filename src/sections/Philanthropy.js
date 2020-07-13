@@ -21,7 +21,7 @@ const Philanthropy = () => {
 
   return (
     <section id="philanthropy">
-      <Heading icon={FaBoxOpen} title="Philanthropy" />
+      <Heading icon={FaBoxOpen} title="Conferences" />
 
       {data.allPhilanthropyJson.edges.map(({ node }, index) => (
         <div

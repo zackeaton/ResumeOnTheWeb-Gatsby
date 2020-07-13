@@ -1,5 +1,25 @@
 [
   {
+    "icon": "../images/skills/shopify.png",
+    "name": "Ecommerce",
+    "tech": "Shopify/WooCommerce/WordPress"
+  },
+  {
+    "icon": "../images/skills/sprout.png",
+    "name": "Influencer Marketing",
+    "tech": "Social Media, Affiliatly, Management"
+  },
+  {
+    "icon": "../images/skills/hubspot.png",
+    "name": "Customer Relationship Management",
+    "tech": "HubSpot/SalesForce/ZenDesk"
+  },
+  {
+    "icon": "../images/skills/powerbi.png",
+    "name": "Analytics & Reporting",
+    "tech": "Power BI/Google Analytics/Excel"
+  },
+  {
     "icon": "../images/skills/web.png",
     "name": "Web Design & Development",
     "tech": "HTML/CSS/Javascript"
@@ -17,27 +37,7 @@
   {
     "icon": "../images/skills/database.png",
     "name": "Database Management System",
-    "tech": "MySQL/Postgres/MongoDB"
-  },
-  {
-    "icon": "../images/skills/hubspot.png",
-    "name": "Customer Relationship Management",
-    "tech": "HubSpot/SalesForce/ZenDesk"
-  },
-  {
-    "icon": "../images/skills/shopify.png",
-    "name": "Ecommerce",
-    "tech": "Shopify/WooCommerce/WordPress"
-  },
-  {
-    "icon": "../images/skills/powerbi.png",
-    "name": "Analytics & Reporting",
-    "tech": "Power BI/Google Analytics/Excel"
-  },
-  {
-    "icon": "../images/skills/android.png",
-    "name": "Android App Development",
-    "tech": "Android Studio/Java/Kotlin/XML"
+    "tech": "MySQL/Firebase/MongoDB"
   },
   {
     "icon": "../images/skills/sketch.png",

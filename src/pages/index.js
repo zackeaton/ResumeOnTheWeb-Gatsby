@@ -30,7 +30,6 @@ const IndexPage = () => {
         </div>
         <Skills />
         <Projects />
-        <Blog />
         <Languages />
         <div className={styles.achievementsCertificationPhilanthropy}>
           <div>
@@ -46,6 +45,7 @@ const IndexPage = () => {
         <Photography />
         <Music />
         <Resume />
+        <Blog />
         <Contact />
         <Footer />
       </div>

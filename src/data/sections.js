@@ -22,7 +22,6 @@ const sections = [
   { id: "education", title: "Education", icon: MdSchool },
   { id: "skills", title: "Skills", icon: GoTools },
   { id: "projects", title: "Projects", icon: FaDev },
-  { id: "blog", title: "Blog", icon: IoIosJournal },
   { id: "languages", title: "Languages", icon: FaSignLanguage },
   { id: "achievements", title: "Achievements", icon: FaAward },
   {
@@ -30,10 +29,11 @@ const sections = [
     title: "Certifications",
     icon: AiFillSafetyCertificate,
   },
-  { id: "philanthropy", title: "Philanthropy", icon: FaBoxOpen },
+  { id: "philanthropy", title: "Conferences", icon: FaBoxOpen },
   { id: "photography", title: "Photography", icon: AiFillInstagram },
   { id: "music", title: "Music", icon: MdMusicNote },
   { id: "resume", title: "Resume", icon: IoIosDocument },
+  { id: "blog", title: "Blog", icon: IoIosJournal },
   { id: "contact", title: "Contact", icon: IoIosPaperPlane },
   { id: "footer", title: "About RotW", icon: FaInfoCircle },
 ];
