@@ -11,5 +11,6 @@ yarn-error.log
 
 # Deployment-specific Configs
 .vercel
+.env
 .env.development
-.envsendgrid.env
+
