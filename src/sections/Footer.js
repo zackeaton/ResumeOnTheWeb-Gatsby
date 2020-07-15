@@ -38,6 +38,11 @@ const Footer = () => {
         <div>Licensed under MIT.</div>
         <div>Copyright {new Date().getFullYear()} Amruth Pillai.</div>
         <div>Made with Love in Bengaluru, India.</div>
+        <div>
+        <a href="https://github.com/AmruthPillai/ResumeOnTheWeb-Gatsby">
+          Star this Project on GitHub.
+            </a>
+            </div>
       </div>
     </section>
   );

@@ -40,16 +40,6 @@
     "tech": "MySQL/Firebase/MongoDB"
   },
   {
-    "icon": "../images/skills/sketch.png",
-    "name": "UI/UX Design",
-    "tech": "Adobe XD/Figma/Sketch"
-  },
-  {
-    "icon": "../images/skills/seo.png",
-    "name": "Search Engine Optimization",
-    "tech": "PageRank/Backlinks/Google Analytics"
-  },
-  {
     "icon": "../images/skills/photography.png",
     "name": "Photography & Cinematography",
     "tech": "Adobe Photoshop/Lightroom"
@@ -58,5 +48,15 @@
     "icon": "../images/skills/fcpx.png",
     "name": "Video Editing",
     "tech": "Premiere Pro, iMovie, In-Shot"
+  },
+  {
+    "icon": "../images/skills/instagram.png",
+    "name": "Social Media",
+    "tech": "Content Management, Paid Ads, Analytics"
+  },
+  {
+    "icon": "../images/skills/seo.png",
+    "name": "Search Engine Optimization",
+    "tech": "PageRank/Backlinks/Google Analytics"
   }
 ]
