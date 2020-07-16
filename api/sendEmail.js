@@ -4,7 +4,7 @@ module.exports = (req, res) => {
   const { name, email, message } = JSON.parse(req.body);
   const apiKey = process.env.SENDGRID_KEY;
   sendgrid.setApiKey(apiKey);
-
+ 
   const msg = {
     to: {
       name: "Zack Eaton",
@@ -12,7 +12,7 @@ module.exports = (req, res) => {
     },
     from: {
       name: `${name} via Resume on the Web`,
-      email: "no-reply@em1527.pillai.xyz",
+      email: "no-reply@em1527.zackeaton.dev",
     },
     replyTo: { name, email },
     subject: "You've got mail from Resume on the Web!",
