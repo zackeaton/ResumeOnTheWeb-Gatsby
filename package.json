@@ -59,16 +59,26 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "devDependencies": {
+    "@types/webpack": "^4.41.21",
+    "acorn": "^6.4.1",
     "autoprefixer": "9.8.2",
     "babel-eslint": "10.1.0",
+    "bufferutil": "^4.0.1",
     "cssnano": "4.1.10",
-    "eslint": "7.3.0",
-    "eslint-loader": "4.0.2",
+    "eslint": "^6.8.0",
+    "eslint-loader": "^3.0.4",
     "eslint-plugin-import": "2.21.2",
     "eslint-plugin-react": "7.20.0",
     "gatsby-plugin-eslint": "2.0.8",
+    "ink": "^2.7.1",
     "prettier": "2.0.5",
-    "tailwindcss": "1.4.6"
+    "react-refresh": "^0.8.3",
+    "sockjs-client": "^1.4.0",
+    "tailwindcss": "1.4.6",
+    "type-fest": "^0.13.1",
+    "typescript": "^3.9.7",
+    "utf-8-validate": "^5.0.2",
+    "webpack-plugin-serve": "^1.0.1"
   },
   "repository": {
     "type": "git",
