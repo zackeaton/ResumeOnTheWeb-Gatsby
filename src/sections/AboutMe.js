@@ -2,7 +2,8 @@ import { graphql, useStaticQuery } from "gatsby";
 import GatsbyImage from "gatsby-image";
 import React from "react";
 import Heading from "../components/Heading";
-import { MdPerson } from "../components/Icons";
+import { MdPerson, IoIosPaperPlane } from "../components/Icons";
+import Button from "../components/Button";
 
 const AboutMe = () => {
   const data = useStaticQuery(graphql`
@@ -27,6 +28,12 @@ const AboutMe = () => {
       <div className="grid lg:grid-cols-6 gap-12 items-center">
         <div className="hidden md:block lg:col-span-2 w-1/3 lg:w-3/4 mx-auto wow fadeInLeft">
           <GatsbyImage {...data.photo.childImageSharp} />
+          <Button
+        className="mt-6"
+        icon={IoIosPaperPlane}
+        title="Send Email"
+        onClick={() => window.open("mailto:zackeaton@gmail.com?subject=About%20Your%20Website", "_blank")}
+      />
         </div>
         <div
           className="text-justify lg:col-span-4 wow fadeIn"

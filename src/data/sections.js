@@ -5,11 +5,11 @@ import {
   FaBoxOpen,
   FaDev,
   FaInfoCircle,
-  FaSignLanguage,
+  // FaSignLanguage,
   GoTools,
   IoIosDocument,
   IoIosJournal,
-  IoIosPaperPlane,
+  // IoIosPaperPlane,
   MdMusicNote,
   MdPerson,
   MdSchool,
@@ -18,6 +18,7 @@ import {
 
 const sections = [
   { id: "about-me", title: "About Me", icon: MdPerson },
+  { id: "resume", title: "Resume", icon: IoIosDocument },
   { id: "work", title: "Work", icon: MdWork },
   { id: "education", title: "Education", icon: MdSchool },
   { id: "skills", title: "Skills", icon: GoTools },
@@ -29,12 +30,11 @@ const sections = [
     icon: AiFillSafetyCertificate,
   },
   { id: "conferences", title: "Conferences", icon: FaBoxOpen },
-  { id: "languages", title: "Languages", icon: FaSignLanguage },
-  { id: "resume", title: "Resume", icon: IoIosDocument },
+  // { id: "languages", title: "Languages", icon: FaSignLanguage },
   { id: "photography", title: "Photography", icon: AiFillInstagram },
-  { id: "music", title: "Music", icon: MdMusicNote },
   { id: "blog", title: "Blog", icon: IoIosJournal },
-  { id: "contact", title: "Contact", icon: IoIosPaperPlane },
+  { id: "music", title: "Music", icon: MdMusicNote },
+  // { id: "contact", title: "Contact", icon: IoIosPaperPlane },
   { id: "footer", title: "About", icon: FaInfoCircle },
 ];
 

@@ -6,10 +6,10 @@ import AboutMe from "../sections/AboutMe";
 import Achievements from "../sections/Achievements";
 import Blog from "../sections/Blog";
 import Certifications from "../sections/Certifications";
-import Contact from "../sections/Contact";
+// import Contact from "../sections/Contact";
 import Education from "../sections/Education";
 import Hero from "../sections/Hero";
-import Languages from "../sections/Languages";
+// import Languages from "../sections/Languages";
 import Music from "../sections/Music";
 import Conferences from "../sections/Conferences";
 import Photography from "../sections/Photography";
@@ -24,6 +24,7 @@ const IndexPage = () => {
       <div className={`container ${styles.layout}`}>
         <Hero />
         <AboutMe />
+        <Resume />
         <div className={styles.workEducation}>
           <Work />
           <Education />
@@ -41,12 +42,11 @@ const IndexPage = () => {
             <Conferences />
           </div>
         </div>
-        <Languages />
-        <Resume />
+        {/* <Languages /> */}
         <Photography />
-        <Music />
         <Blog />
-        <Contact />
+        <Music />
+        {/* <Contact /> */}
         <Footer />
       </div>
     </Wrapper>
