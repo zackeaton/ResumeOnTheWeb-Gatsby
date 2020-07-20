@@ -1,28 +1,27 @@
 import React from "react";
 import Heading from "../components/Heading";
-import { FaInfoCircle, //FaStar 
-} from "../components/Icons";
-import { useStaticQuery, graphql } from "gatsby";
+import { FaInfoCircle } from "../components/Icons";
+// import { useStaticQuery, graphql } from "gatsby";
 // import Button from "../components/Button";
 
 const Footer = () => {
-  const data = useStaticQuery(graphql`
+/*   const data = useStaticQuery(graphql`
     {
       markdownRemark(frontmatter: { id: { eq: "about-rotw" } }) {
         html
       }
     }
-  `);
+  `); */
 
   return (
     <section id="footer">
       <Heading icon={FaInfoCircle} title="About" />
 
-      <div
+{/*      <div
         className="text-justify w-full md:w-4/5 lg:w-3/4 wow fadeIn"
         dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
       />
-{/* 
+
       <Button
         className="mt-6"
         icon={FaStar}
@@ -35,7 +34,7 @@ const Footer = () => {
         }
       /> */}
 
-      <div className="pt-24 pb-8 text-xs leading-relaxed opacity-25">
+      <div className="pt-14 pb-8 text-xs leading-relaxed opacity-25">
         <div>Licensed under MIT.</div>
         <div>Copyright {new Date().getFullYear()} Amruth Pillai.</div>
         <div>Made with Love in Bengaluru, India.</div>
