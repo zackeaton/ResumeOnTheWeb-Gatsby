@@ -14,6 +14,13 @@
     "website": "https://zackeaton.com/portfolio-item/eyepromise-gg/"
   },
   {
+    "image": "../images/projects/reviews.png",
+    "title": "ScreenShield Testimonials",
+    "description": "Added a testimonials page to EyePromise.gg to share real user feedback from esport professionals.",
+    "tags": ["esports", "influencers", "reviews"],
+    "website": "https://zackeaton.com/portfolio-item/eyepromise-gg-testimonials/"
+  },
+  {
     "image": "../images/projects/ovphoto.png",
     "title": "OV Photography",
     "description": "The client needed a custom web application to keep track of client information, photoshoot details, invoice statuses, as well as pre and post-event tasks.",
