@@ -12,7 +12,7 @@ const Hero = () => {
   const [showSocial, setShowSocial] = useState(false);
   const data = useStaticQuery(graphql`
     {
-      photo: file(relativePath: { eq: "photo.png" }) {
+      photo: file(relativePath: { eq: "icon.png" }) {
         childImageSharp {
           fluid(maxWidth: 512) {
             ...GatsbyImageSharpFluid_withWebp_noBase64
