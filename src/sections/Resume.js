@@ -9,7 +9,7 @@ import { FaLink, IoIosDocument } from "../components/Icons";
 const Resume = () => {
   const data = useStaticQuery(graphql`
     {
-      file(relativePath: { eq: "resume/preview.jpg" }) {
+      file(relativePath: { eq: "resume/reactive_resume.png" }) {
         childImageSharp {
           fluid(maxWidth: 600) {
             ...GatsbyImageSharpFluid_withWebp
