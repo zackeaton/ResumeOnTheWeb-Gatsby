@@ -11,7 +11,7 @@ const Blog = () => {
     {
       allDevArticles(
         sort: { fields: [article___published_at], order: DESC }
-        limit: 6
+        limit: 3
       ) {
         edges {
           node {

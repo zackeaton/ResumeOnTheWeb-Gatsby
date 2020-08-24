@@ -1,5 +1,21 @@
 [
   {
+    "icon": "../images/work/dcds.png",
+    "title": "DC Dev Shop",
+    "subtitle": "Business Development Manager",
+    "period": "Aug '20 - Present",
+    "location": "Remote",
+    "specialization": "Hosting, Marketing, Wordpress, HubSpot"
+  },
+  {
+    "icon": "../images/work/zackeaton.png",
+    "title": "ZackEaton.com",
+    "subtitle": "Full-Stack Web Developer",
+    "period": "Aug '13 - Jun '18",
+    "location": "Remote",
+    "specialization": "Wordpress, Web Hosting, Javascript"
+  },
+  {
     "icon": "../images/work/eyepromise.png",
     "title": "EyePromise",
     "subtitle": "Esports Product Manager",
@@ -22,14 +38,6 @@
     "period": "Aug '15 - May '19",
     "location": "St. Louis, MO",
     "specialization": "Property Management, Real Estate Sales"
-  },
-  {
-    "icon": "../images/work/zackeaton.png",
-    "title": "ZackEaton.com",
-    "subtitle": "Full-Stack Web Developer",
-    "period": "Aug '13 - Jun '18",
-    "location": "Remote",
-    "specialization": "Wordpress, GoDaddy, HTML & CSS"
   },
   {
     "icon": "../images/work/strange.png",

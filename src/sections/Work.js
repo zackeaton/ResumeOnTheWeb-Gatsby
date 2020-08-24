@@ -8,7 +8,7 @@ import Tooltip from "@material-ui/core/Tooltip";
 
 const Work = () => {
   const { dark } = useContext(ThemeContext);
-  const [max, setMax] = useState(4);
+  const [max, setMax] = useState(3);
   const data = useStaticQuery(graphql`
     {
       allWorkJson {
@@ -37,12 +37,12 @@ const Work = () => {
     <section id="work">
       <Heading icon={MdWork} title="Work" />
 
-      <div className="bg-primary-800 text-white rounded p-6 mb-8 lg:mr-12">
+      {/* <div className="bg-primary-800 text-white rounded p-6 mb-8 lg:mr-12">
         I was unexpectedly let go from my previous role with my past employer after almost two years because of the ongoing economic turmoil
         due to the COVID19 Pandemic. So if you or your company is hiring, please
         contact me at{" "}
         <a href="mailto:zackeaton@gmail.com">zackeaton@gmail.com</a>.
-      </div>
+      </div> */}
 
       <div className="flex">
         <div className="w-1 bg-gray-500 rounded-full md:ml-6 opacity-25" />
