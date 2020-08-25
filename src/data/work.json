@@ -8,14 +8,6 @@
     "specialization": "Hosting, Marketing, Wordpress, HubSpot"
   },
   {
-    "icon": "../images/work/zackeaton.png",
-    "title": "ZackEaton.com",
-    "subtitle": "Full-Stack Web Developer",
-    "period": "Aug '13 - Jun '18",
-    "location": "Remote",
-    "specialization": "Wordpress, Web Hosting, Javascript"
-  },
-  {
     "icon": "../images/work/eyepromise.png",
     "title": "EyePromise",
     "subtitle": "Esports Product Manager",
@@ -30,6 +22,14 @@
     "period": "Sept '18 - May '19",
     "location": "Chesterfield, MO",
     "specialization": "HubSpot, SalesForce, Excel, WebHooks"
+  },
+  {
+    "icon": "../images/work/zackeaton.png",
+    "title": "ZackEaton.com",
+    "subtitle": "Full-Stack Web Developer",
+    "period": "Aug '13 - Jun '20",
+    "location": "Remote",
+    "specialization": "Wordpress, Web Hosting, Javascript"
   },
   {
     "icon": "../images/work/eaton.png",
