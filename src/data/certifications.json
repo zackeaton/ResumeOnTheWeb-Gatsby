@@ -1,6 +1,10 @@
 [
   {
-    "title": "Inbound Certificate",
+    "title": "Hubspot Sales Software Certificate",
+    "subtitle": "Hubspot"
+  },
+  {
+    "title": "Hubspot Inbound Certificate",
     "subtitle": "Hubspot"
   },
   {
@@ -17,10 +21,6 @@
   },
   {
     "title": "The Web Developer Bootcamp",
-    "subtitle": "Udemy"
-  },
-  {
-    "title": "Java Programming Masterclass for Software Developers",
     "subtitle": "Udemy"
   }
 ]
