@@ -35,7 +35,7 @@ const Photography = () => {
 
   const openInstagramPost = id =>
     window.open(`https://www.instagram.com/p/${id}`, "_blank");
-    // Test Push 
+    // Test Push Oct. 6
   return (
     <section id="photography">
       <Heading icon={AiFillInstagram} title="Photography" />
