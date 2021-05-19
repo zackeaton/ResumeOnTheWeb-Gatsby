@@ -1,5 +1,13 @@
 [
   {
+    "icon": "../images/work/sikich.png",
+    "title": "Sikich",
+    "subtitle": "Web Developer & Digital Marketing Specialist",
+    "period": "April '21 - Present",
+    "location": "Remote",
+    "specialization": "Wordpress, Web Development, Social Media, SEO"
+  },
+  {
     "icon": "../images/work/dcds.png",
     "title": "DC Dev Shop",
     "subtitle": "Business Development Manager",

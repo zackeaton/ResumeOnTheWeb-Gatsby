@@ -37,13 +37,13 @@ const Work = () => {
     <section id="work">
       <Heading icon={MdWork} title="Work" />
 
-      <div className="bg-primary-800 text-white rounded p-6 mb-8 lg:mr-12">
+{/*       <div className="bg-primary-800 text-white rounded p-6 mb-8 lg:mr-12">
         My previous role at DC Dev Shop was a 3 month contract-to-hire. 
         Due to the COVID-19 pandemic, my contract was not renewed.
         So if you or your company is hiring, please
         contact me at{" "}
         <a href="mailto:zackeaton@gmail.com">zackeaton@gmail.com</a>.
-      </div>
+      </div> */}
 
       <div className="flex">
         <div className="w-1 bg-gray-500 rounded-full md:ml-6 opacity-25" />
